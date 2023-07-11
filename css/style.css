@@ -58,6 +58,12 @@ p,li{
     background-size: cover;
     background-repeat: no-repeat;
 }
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
 
 
 .navbar .logo{
