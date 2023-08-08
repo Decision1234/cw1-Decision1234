@@ -25,19 +25,18 @@
         </div>
     </nav>
       <div>
-             <section class="showcase" id="explore">
-                <div class="container">
-                    <div class="row11 row2">
-                    <div class="img-box">
-                        <img src="./img/Yatri-P1-Side-Styling.png" alt="Project-1">
-                    </div>
+      <div class="container">
+                        <div class="row11 row2">
+                        <div class="img-box">
+                            <img src=".\img\P1.png" alt="Project-0">
+                        </div>
                     <h2>&nbsp;&nbsp;Project-1</h2>
                         <h1 class="center_text">&nbsp;&nbsp;PRICE <span style="color: #09cef5;">Rs. 5,65,000 </span></h1>
                         <h1 class="center_text">&nbsp;&nbsp;BATTERY...........<span style="color: #09cef5;">3.0kWh</span></h1>
                         <h1 class="center_text">&nbsp;&nbsp;PEAK POWER........ <span style="color: #09cef5;">19 HP</span></h1>
                         <h1 class="center_text">&nbsp;&nbsp;TORQUE............<span style="color: #09cef5;">480 Nm (at the wheel)</span></h1>
                        <h1 class="center_text">&nbsp;&nbsp;RANGE............. <span style="color: #09cef5;">110 Km</span></h1>
-                       <h1 class="center_text">&nbsp;&nbsp;CHARGING TIME..... <span style="color: #09cef5;">2 hours (40 mins with Fast Charging)</span></h1>
+                       <h1 class="center_text">&nbsp;CHARGING TIME..... <span style="color: #09cef5;">2 hours (40 mins with Fast Charging)</span></h1>
                        <h1 class="center_text">&nbsp;&nbsp;TOP SPEED <span style="color: #09cef5;">100 Kmph</span></h1>
                        <h1 class="center_text">&nbsp;&nbsp;BRAKING TYPE...... <span style="color: #09cef5;">Regenerative Braking System</span></h1>
                        <h1 class="center_text">&nbsp;&nbsp;SUPSPENSION... <span style="color: #09cef5;">USD Forks and Monoshock</span></h1>
