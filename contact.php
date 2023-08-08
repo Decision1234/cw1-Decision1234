@@ -14,12 +14,12 @@
 
                 <h1 class="logo">Yatri</h1>
                 <ul class="nav-items">
-                <li class="nav-item"><a href="./index.html">Home</a></li>
-                <li class="nav-item"><a href="./about.html">About</a></li>
-                <li class="nav-item"><a href="./Project-0.html">Project-0</a></li>
-                <li class="nav-item"><a href="./Project-1.html">Project-1</a></li>
-                <li class="nav-item"><a href="./contact.html">Contact</a></li>
-                <li class="nav-item"><a href="./login.html"> Login</a></li>
+                <li class="nav-item"><a href="index.php">Home</a></li>
+                <li class="nav-item"><a href="about.php">About</a></li>
+                <li class="nav-item"><a href="Project-0.php">Project-0</a></li>
+                <li class="nav-item"><a href="Project-1.php">Project-1</a></li>
+                <li class="nav-item"><a href="contact.php">Contact</a></li>
+                <li class="nav-item"><a href="login.php"> Login</a></li>
             </ul>
 
             </div>

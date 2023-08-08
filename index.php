@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/7f257b9379.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="./css/style.css">
-    <title>Travel Website</title>
+    <title>yatrimotorcycles Website</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 </head>
@@ -19,14 +19,13 @@
 
                 <h1 class="logo">Yatri</h1>
                 <ul class="nav-items">
-                <li class="nav-item"><a href="./index.html">Home</a></li>
-                <li class="nav-item"><a href="./about.html">About</a></li>
-                <li class="nav-item"><a href="./Project-0.html">Project-0</a></li>
-                <li class="nav-item"><a href="./Project-1.html">Project-1</a></li>
-                <li class="nav-item"><a href="./contact.html">Contact</a></li>
-                <li class="nav-item"><a href="./login.html"> Login</a></li>
+                <li class="nav-item"><a href="index.php">Home</a></li>
+                <li class="nav-item"><a href="about.php">About</a></li>
+                <li class="nav-item"><a href="Project-0.php">Project-0</a></li>
+                <li class="nav-item"><a href="Project-1.php">Project-1</a></li>
+                <li class="nav-item"><a href="contact.php">Contact</a></li>
+                <li class="nav-item"><a href="login.php"> Login</a></li>
             </ul>
-
             </div>
         </nav>
 
@@ -67,7 +66,7 @@
                          while still having compelling specs. While it is still far from
                           a true mass-market platform, it forms a solid foundation for the 
                           team to build on and create a game changer, P-2.</p>
-                          <p><a href="./login.html" class="button-secondary">More</a></p>
+                          <p><a href="login.php" class="button-secondary">More</a></p>
                 </div>
             </div>
             <div class="row row2">
@@ -83,7 +82,7 @@
                         leading 230 km range, over-the-air software updates that keep refreshing 
                         the motorcycle over time, and performance-oriented specifications has truly 
                         defined Yatri motorcycles and helps raise the overall bar for the whole industry.</p>
-                        <p><a href="./login.html" class="button-secondary">More</a></p>
+                        <p><a href="login.php" class="button-secondary">More</a></p>
                 </div>
             </div>
             <br>
@@ -94,7 +93,7 @@
             <br>
             <br>    
         </div>
-        <p style="text-align: center;"><a href="./login.html" class="button-secondary">View More</a></p>
+        <p style="text-align: center;"><a href="login.php" class="button-secondary">View More</a></p>
     </section>
     
     <section class="features">

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/7f257b9379.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="./css/style.css">
-    <title>Project-</title>
+    <title>Project-Yatri</title>
 </head>
 <body>  
     <nav class="navbar bg-dark">
@@ -14,12 +14,12 @@
 
             <h1 class="logo">Yatri</h1>
             <ul class="nav-items">
-            <li class="nav-item"><a href="./index.html">Home</a></li>
-            <li class="nav-item"><a href="./about.html">About</a></li>
-            <li class="nav-item"><a href="./Project-0.html">Project-0</a></li>
-            <li class="nav-item"><a href="./Project-1.html">Project-1</a></li>
-            <li class="nav-item"><a href="./contact.html">Contact</a></li>
-            <li class="nav-item"><a href="./login.html"> Login</a></li>
+            <li class="nav-item"><a href="index.php">Home</a></li>
+            <li class="nav-item"><a href="about.php">About</a></li>
+            <li class="nav-item"><a href="Project-0.php">Project-0</a></li>
+            <li class="nav-item"><a href="Project-1.php">Project-1</a></li>
+            <li class="nav-item"><a href="contact.php">Contact</a></li>
+            <li class="nav-item"><a href="login.php"> Login</a></li>
         </ul>
 
         </div>
@@ -44,7 +44,7 @@
                        <h1 class="center_text">&nbsp;&nbsp;WEIGHT.............<span style="color: #09cef5;">120 Kg</span></h1>
                        <h1 class="center_text">&nbsp;&nbsp;SEAT HEIGHT........ <span style="color: #09cef5;">840 mm</span></h1>
                        <h1 class="center_text">&nbsp;&nbsp;GROUND CLEARANCE... <span style="color: #09cef5;">320 mm</span></h1> 
-                       <p style="text-align: center;"><a href="./contact.html" class="button-secondary">Order now</a></p>   
+                       <p style="text-align: center;"><a href="contact.php" class="button-secondary">Order now</a></p>   
                </div>
               </div>
                     <div class="container">
@@ -71,7 +71,7 @@
                            <h1 class="center_text">&nbsp;&nbsp;GROUND CLEARANCE... <span style="color: #09cef5;">175 mm</span></h1>
                            <h1 class="center_text">&nbsp;&nbsp;INTERNET...........<span style="color: #09cef5;">On-board 4G network</span></h1>
                            <h1 class="center_text">&nbsp;&nbsp;MOBILE APP......... <span style="color: #09cef5;">Android and IOS | Antitheft with on-board GPS</span></h1> 
-                           <p style="text-align: center;"><a href="./contact.html" class="button-secondary">Order now</a></p>  
+                           <p style="text-align: center;"><a href="contact.php" class="button-secondary">Order now</a></p>  
                    </div>
                   </div>
                 </div>
