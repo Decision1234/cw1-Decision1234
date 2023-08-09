@@ -38,6 +38,7 @@
                          while still having compelling specs. While it is still far from
                           a true mass-market platform, it forms a solid foundation for the 
                           team to build on and create a game changer, P-2.</p>
+                          <p><a href="login.php" class="button-secondary">More</a></p>
                       </div>
                    </div>
                 </div>

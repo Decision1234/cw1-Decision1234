@@ -33,7 +33,6 @@
                          <p class="true_text">Yatri was founded in 2017 to prove world-class electric vehicles 
                             can be designed, engineered and manufactured from the ground up in Nepal - that switching 
                             to electric does not have to be a compromise but better, quicker and kinder to the planet.</p>
-                         <div class="redmore_bt"><a href="#">Read More</a></div>
                       </div>
             <div class="col-md-6">
                <div class=""><img src=".\img\images.jpg"></div>
